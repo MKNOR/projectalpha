@@ -1,7 +1,7 @@
 title=ProjectAlpha
 codebase=https://96.61.195.174
 initial_class=client.class
-initial_jar=http://localhost/gamepack.jar
+initial_jar=gamepack.jar
 param=2=https://payments.jagex.com/
 param=3=true
 param=4=1
